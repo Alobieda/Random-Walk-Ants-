@@ -25,17 +25,17 @@ To run the project, run:
 ./bin/walk_ants config/ant_config.json
 ```
 ## Additional Testing
-- **The simulation is tested using various initial ant configurations defined in the JSON file.
-- **To experiment with different scenarios, modify the JSON configuration or adjust the input parameters in the provided scripts.
+- The simulation is tested using various initial ant configurations defined in the JSON file.
+- To experiment with different scenarios, modify the JSON configuration or adjust the input parameters in the provided scripts.
 
 ## Features
-- **Random Walk Behavior: Ants move randomly across a grid based on local cell interactions.
+- **Random Walk Behavior:** Ants move randomly across a grid based on local cell interactions.
 
-- **Cellular Interaction: Each cell's state is updated by considering the states of its neighboring cells.
+- **Cellular Interaction:** Each cell's state is updated by considering the states of its neighboring cells.
 
-- **Configurable Grid: Grid dimensions and initial ant positions are defined in a JSON file.
+- **Configurable Grid:** Grid dimensions and initial ant positions are defined in a JSON file.
 
-- **Test Framework: Includes scripts and log files to facilitate automated testing and result analysis.
+- **Test Framework:** Includes scripts and log files to facilitate automated testing and result analysis.
 
   ## Model Descriptions
 
