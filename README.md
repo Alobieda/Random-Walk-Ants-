@@ -10,7 +10,7 @@ _Check by running `echo $CADMIUM` in the terminal._
 ## Build
 To clone this project, run:
 
-git clone https://github.com/YourUsername/AntRandomWalk.git
+git clone https://github.com/Alobieda/Random-Walk-Ants-.git
 
 To build the project, run:
 ```sh
