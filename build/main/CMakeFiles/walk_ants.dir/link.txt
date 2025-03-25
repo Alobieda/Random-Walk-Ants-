@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/walk_ants.dir/main.cpp.o -o /home/alobieda/cell-devs-manual-example/bin/walk_ants 
